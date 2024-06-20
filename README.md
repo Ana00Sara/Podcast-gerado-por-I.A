@@ -6,7 +6,7 @@
 
 Conteúdo e título gerado por ChatGPT, imagem de capa gerada por Bing e voz gerada por ElevenLabs.
 
-Escute o [PODCAST]() aqui.
+Escute o [PODCAST](https://github.com/Ana00Sara/Podcast-gerado-por-I.A/blob/main/podcast.MP3) aqui.
 
 ## Tecnologias utilizadas
 
